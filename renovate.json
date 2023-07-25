@@ -16,6 +16,11 @@
       "test\\/.*\\.ya?ml$"
     ]
   },
+  "helm": {
+    "fileMatch": [
+      "^chart/open-feature-operator/README.md$"
+    ]
+  },
   "packageRules": [
     {
       "matchDepPatterns": [
