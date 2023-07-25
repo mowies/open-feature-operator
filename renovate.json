@@ -16,8 +16,9 @@
       "test\\/.*\\.ya?ml$"
     ]
   },
-  "helm": {
+  "helm-values": {
     "fileMatch": [
+      "(^|/)values\\.ya?ml$",
       "^chart/open-feature-operator/README.md$"
     ]
   },
